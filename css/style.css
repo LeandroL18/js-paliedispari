@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 60%;
+    margin: 20px auto;
+}
+.container h2{
+    margin: 10px 0;
+}
